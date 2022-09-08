@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+![MasterHead](https://c.tenor.com/JlnMiIdvYIEAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Patrick Onyeka</h1>
 <h3 align="center">I am learning to become a Full-stack Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
