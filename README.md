@@ -12,17 +12,16 @@
 
 - 🔭 I’m currently studying with ALX **It's an awesome experience**
 
-- 🌱 I’m currently learning to become Full-stack Software Engineer at ALX
+- 🌱 I’m currently learning **learning to become Full-stack Software Engineer**
 
-- 👯 I’m not looking to collaborate with anyone at the moment
+- 👯 I’m looking to collaborate with **Anyone interested**
 
-- 💬 Don't ask me about anything for now, I am still learning
+- 💬 Don't ask me about anything for now **Still learning**
 
 - 📫 You don't have to reach me
 
-- ⚡ Fun fact - **I have zero coding background (:**
+- ⚡ Fun fact **I have zero coding background (:**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
