@@ -18,7 +18,7 @@
 
 - 💬 Don't ask me about anything for now **Still learning**
 
-- 📫 How to reach me **You don't have to**
+- 📫 You don't have to reach me
 
 - ⚡ Fun fact **I have zero coding background (:**
 
